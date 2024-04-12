@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(6, 0, 2);
+}
+.intro { 
+    color: rgb(193, 20, 220);
+}
+.one {
+    color: aqua;
+}
+.two {
+    color: rgb(181, 26, 26);
+}
+ 
+#main {
+    background-color: rgb(59, 6, 234);
+    padding: 20px;
+    border-radius: 10px;
+}
+.p-two {
+    color: blueviolet;
+}
+.p-three {
+    color: aquamarine;
+}
+h1 + h2 {
+    color: yellow;
+}
+h1 ~ h3 {
+    color: darkorange;
+}
+p {
+    color: rgb(176, 220, 16);
+}
+#p {
+    color: rgb(0, 6, 6);
+}
+.p {
+    color: brown;
+}
+p {
+    color: rgb(33, 11, 201);
+}
+.parent {
+    color: rgb(11, 126, 114);
+    font-size: 21px;
+}
